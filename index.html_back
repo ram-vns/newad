@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>ApPHP DataGrid</title>
+    <meta name="description" content="Simple, innovative and powerful tool for generating data-bound grid control, specially designed for web developers." />
+    <style>
+        nav ul { height:30px; width:100%; padding:0px; margin:20px 0 0 0; }
+        nav ul li { float:left; list-style: none; border-right:1px solid #ccc; padding:10px; line-height:5px;}
+        nav ul li:last-child { border:0px;}
+        a { color:#224466;}
+        a:hover { color:#336699; text-decoration:none; }
+        article { padding:10px; }
+        a.free_demo { text-decoration:none; display:inline-block; margin-left:10px; padding:10px; text-shadow: 1px 1px 0px rgb(255, 232, 178); color: rgb(124, 93, 27); border: 1px solid rgb(214, 164, 55); background: linear-gradient(rgb(254, 217, 112), rgb(254, 189, 75)) repeat scroll 0% 0% transparent; }
+        a.free_demo:hover { color:#000; }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="http://www.apphp.com/php-datagrid/index.php">Script Site</a></li>
+                <li><a href="http://www.apphp.com/php-datagrid/index.php?page=examples">Live DEMO</a></li>
+                <li><a href="http://www.apphp.com/php-datagrid/showcase/index.php">Showcase</a></li>
+                <li><a href="http://www.apphp.com/php-datagrid/index.php?page=installation">Installation</a></li>
+                <li><a href="http://www.apphp.com/php-datagrid/index.php?page=getting-started">Getting Started</a></li>
+                <li><a href="http://www.apphp.com/php-datagrid/index.php?page=templates">Templates</a></li>
+                <li><a href="http://www.apphp.com/php-datagrid/index.php?page=knowledge-base">Knowledge Base</a></li>
+                
+                <li style="loat:right"><a href="http://www.apphp.com/php-datagrid/index.php?page=pricing"><b>BUY NOW</b></a></li>                
+            </ul>
+        </nav>
+    </header>    
+    <section>
+        <article>
+            <header>
+                <h2>ApPHP DataGrid - <small>your PHP DataGrid component</small></h2>
+                <p>Simple, innovative and powerful tool for generating data-bound grid control, specially designed for web developers. </p>
+            </header>
+            <p>
+                ApPHP DataGrid script is a simple, innovative and powerful tool for generating data-bound grid control. It was specially designed for web developers. The ApPHP DataGrid is excellent for all PHP database-driven web sites and online-based data administration; it is also useful for dynamic content management and PHP-based hosting providers.
+                <br><br>
+                The goal of this script is to simplify the generation and editing of DataGrid pages for web developers. It is a fully functional, outstanding open source PHP control.
+                <br><br>
+                Click here to check free version demo examples: <a class="free_demo" href="examples/index.php">FREE VERSION DEMO</a>
+                <br><br>
+                The DataGrid is an excellent tool for:
+                <br>
+                <ul>
+                    <li>PHP database-driven web sites</li>
+                    <li>Adding Back-End for existing sites</li>
+                    <li>Creating online-based data administration</li>
+                    <li>Creating dynamic content management or your own CMS</li>
+                    <li>Developing tools for working with different databases</li>
+                </ul>
+            </p>
+        </article>
+
+        <article>
+            <header>
+                <h2>Getting Started <small>with free version (4.2.8)</small></h2>
+            </header>
+            <p>
+                It's very easy to get started!!!
+                <br><br>
+                1. Installation:<br>
+                -- (not updated) <a href="docs/installation.htm">docs/installation.htm</a><br>
+                -- (updated) http://phpbuilder.awardspace.com/dgwiki/installation.htm<br>
+                <br><br>
+                2. Getting started:<br>
+                -- (not updated) <a href="docs/getting-started.htm">docs/getting-started.htm</a><br>
+                -- (updated) http://www.apphp.com/php-datagrid/index.php?page=getting-started<br>
+            </p>
+        </article>
+    </section>
+    <footer>
+        <p>ApPHP DataGrid (c)</p>
+    </footer>
+</body>
+</html>
+    
+    
